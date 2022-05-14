@@ -1,0 +1,16 @@
+DAO\ComercioDAO.class
+Main\MainProject.class
+Interfaces\CadastroProduto.class
+Interfaces\MenuCliente.class
+Instancia\ProdutoIns.class
+Classes\ClienteClass.class
+ConexaoDB\ConexaoDB.class
+Classes\CarrinhoClass.class
+Instancia\ClienteIns.class
+Classes\ComercioClass.class
+Classes\ProdutoClass.class
+Interfaces\LogineCadastro.class
+Interfaces\MenuComercio.class
+DAO\EstoqueDAO.class
+DAO\ClienteDAO.class
+Instancia\ComercioIns.class
